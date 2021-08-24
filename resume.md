@@ -29,10 +29,10 @@ Phi Beta Kappa
 `2021`
  Y. Li, M. A. Cox, T. S. Murdison, B. Yang, J. Intoy, Z. Zhao, and M. Rucci. Post-saccadic dynamics of visual sensitivity across the visual field. Vision Science Society 21st Annual Meeting.
  
- ## Employment
+## Employment
  
- '2021'
- Teaching Assistance, BCSC 111 (Foundations of Cognitive Science)
+`2021`
+Teaching Assistance, BCSC 111 (Foundations of Cognitive Science)
 
 
 
