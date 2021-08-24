@@ -16,6 +16,9 @@ This study takes a further step and looks at the luminance modulation of saccade
 
 ## Revolving field eye coil system
 
+It is a high-resolution tracking system that combines a Revolving Field Monitor (and search coils as contact lenses) and OptiTrack Motion Capture Systems [5]. We are able to record eye movements and head movements in a head free environment while subjects engage in all kinds of task such as threading a needle and visual search.
+
+
 
 ### References
 [1] Kuang, X., Poletti, M., Victor, J.D., and Rucci, M. (2012). Temporal encoding of spatial
@@ -30,6 +33,8 @@ ycle for the dynamics of perception. Current Biology, 27(9), 1268-1277
 
 [4] Mostofi, N., Zhao, Z., Intoy, J., Boi, M., Victor, J. D., & Rucci, M. (2020). Spatiotemporal
 Content of Saccade Transients. Current Biology, 30(20), 3999- 4008.
+
+[5] K. Eibenberger, B. Eibenberger and M. Rucci (2016), Design, simulation and evaluation of uniform magnetic field systems for head-free eye movement recordings with scleral search coils. IEEE Proc. Engineering in Medicine and Biology.
 
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
