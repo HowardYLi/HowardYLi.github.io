@@ -12,7 +12,7 @@ During natural viewing, humans constantly move their eyes, making several saccad
 
 ## Retinal image power by saccade sizes
 
-This study takes a further step and looks at the luminance modulation of saccades with different amplitudes. The cut-off frequency of whitening depends on the velocity profile of the saccade, and therefore its amplitude (because of the main sequence) [4]. For example, a large saccade (6 deg) may reduce power between 0.1 cpd while a small saccade (1 deg) can reduce power up to 1 cpd. This is confirmed by the preliminary data, and further data collection is ongoing. If you are interested to participate as a subject (and get paid), please feel free to write to me!
+This study takes a further step and looks at the luminance modulation of saccades with different amplitudes. The cut-off frequency of whitening depends on the velocity profile of the saccade, and therefore its amplitude (because of the main sequence) [4]. For example, a large saccade (6 deg) may reduce power between 0.1 cpd while a small saccade (1 deg) can reduce power up to 1 cpd. This is confirmed by the preliminary data, and further data collection is ongoing. If you are interested in participating as a subject (and getting paid), please feel free to write to me!
 
 ## Revolving field eye coil system
 
