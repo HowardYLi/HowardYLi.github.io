@@ -17,13 +17,16 @@ This study takes a further step and looks at the luminance modulation of saccade
 ## Revolving field eye coil system
 
 
-# References
+### References
 1] Kuang, X., Poletti, M., Victor, J.D., and Rucci, M. (2012). Temporal encoding of spatial
 nformation during active visual fixation. Current Biololgy, 22, 510–514.
+
 2] M. Rucci, E. Ahissar, and D. Burr, (2018) Temporal coding of visual space, Trends in
 Cognitive Sciences, 22(10): 883-895.
+
 3] Mostofi, N., Zhao, Z., Intoy, J., Boi, M., Victor, J. D., & Rucci, M. (2020). Spatiotemporal
 Content of Saccade Transients. Current Biology, 30(20), 3999- 4008.
+
 4] Boi, M., Poletti, M., Victor, J. D., & Rucci, M. (2017). Consequences of the oculomotor
 ycle for the dynamics of perception. Current Biology, 27(9), 1268-1277
 
