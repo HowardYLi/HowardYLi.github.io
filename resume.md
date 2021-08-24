@@ -7,13 +7,16 @@ layout: resume
 
 ## Currently
 
-PhD student, University of Rochester, 2020 --
+PhD student, University of Rochester, 2020 -- 2025
 
 ## Education
 
 `2016- 2020`
 __University of Rochester__
 BS, Brain and Cognitive Sciences
+
+`2016- 2020`
+__University of Rochester__
 BA, Japanese
 
 ## Awards
@@ -25,7 +28,12 @@ Phi Beta Kappa
 ## Presentations
 
 `2021`
- Y. Li, M. A. Cox, T. S. Murdison, B. Yang, J. Intoy, Z. Zhao, and M. Rucci. Post-saccadic dynamics of visualsensitivity across the visual field. Vision Science Society 21stAnnual Meeting,
+ Y. Li, M. A. Cox, T. S. Murdison, B. Yang, J. Intoy, Z. Zhao, and M. Rucci. Post-saccadic dynamics of visual sensitivity across the visual field. Vision Science Society 21st Annual Meeting.
+ 
+ ## Employment
+ 
+ '2021'
+ Teaching Assistance, BCSC 111 (Foundations of Cognitive Science)
 
 
 
