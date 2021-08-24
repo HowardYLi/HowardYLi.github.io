@@ -5,6 +5,13 @@ title: Research
 
 My research focuses on visual perception under the presence of eye movements.
 
+## Post-saccadic visual dynamic
+
+## Retinal image power by saccade sizes
+
+## Revolving field eye coil system
+
+
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
   but you might want to use it to showcase and describe your `Research`,
