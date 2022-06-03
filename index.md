@@ -7,7 +7,6 @@ Hi! My name is Yuanhao (You-an-how) Li and I go by Howard. I use the pronouns he
 
 ## About me
 
-Outside lab work, I enjoy video games, board games, manga, sci-fi and many other nerd things. Recently I am into Apex Legend, Doctor Who, Franken Fran, and Jojolion (the list goes on). I also love reading and thinking in philosophical terms. Some of my favorite authors are Albert Camus, Hermann Hesse, and Osamu Dazai. 
-
+Outside lab work, I enjoy video games, board games, manga, sci-fi, among other indoor activities. Recently I am into Apex Legend, Doctor Who, Franken Fran, and Jojolion (the list goes on). Every once a while I have a urge to learn something new but then never spend time practicing it. Right now that something is balisong.
 
   
