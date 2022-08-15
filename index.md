@@ -7,6 +7,6 @@ Hi! My name is Yuanhao (You-an-how) Li and I go by Howard. I use the pronouns he
 
 ## About me
 
-Outside lab work, I enjoy video games, board games, manga, sci-fi, among other indoor activities. Recently I am into Apex Legend, Doctor Who, Franken Fran, and Jojolion (the list goes on). Every once a while I have a urge to learn something new but then never spend time practicing it. Right now that something is balisong.
+Outside lab work, I enjoy reading, video games, board games, sci-fi, among other indoor activities. Every once a while I have a urge to learn something new but then never spend time practicing it. Right now that something is bass.
 
   
