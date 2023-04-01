@@ -25,8 +25,12 @@ First place in poster presentation, Center for Visual Science retreat 2022
 `2020`
 Phi Beta Kappa
 
+## Publications
+J.W. Hammond, M.J. Bellizzi, C. Ware, W.Q. Qiu, P. Saminathan, H. Li, S. Luo, S.A. Ma, Y. Li, and H.A. Gelbard, (2020). Complement-dependent synapse loss and microgliosis in a mouse model of multiple sclerosis. Brain, Behavior, and Immunity. 87:739-750. 
 
-## Abstracts
+A. Meermeier, M. Lappe, Y.H. Li., K. Rifai, S. Wahl, and M. Rucci, (2023), Fine-scale measurement of the blind spot borders. Vision Research (in press).
+
+## Conference abstracts
 
 `2022`
 
@@ -39,10 +43,13 @@ M. A. Cox, J. Intoy, Y. H. Li, T. S. Murdison, B. Yang, Z. Zhao, and M. Rucci. O
 `2021`
  Y. H. Li, M. A. Cox, T. S. Murdison, B. Yang, J. Intoy, Z. Zhao, and M. Rucci. Post-saccadic dynamics of visual sensitivity across the visual field. Vision Science Society 21st Annual Meeting.
  
-## Employment
+## Teaching
  
 `2021`
 Teaching Assistance, BCSC 111 (Foundations of Cognitive Science)
+
+`2022`
+Teaching Assistance, BCSC 151 (Perception and Action)
 
 
 
