@@ -35,6 +35,7 @@ J.W. Hammond, M.J. Bellizzi, C. Ware, W.Q. Qiu, P. Saminathan, H. Li, S. Luo, S.
 `2023`
 
 __Y. H. Li__, J. Intoy, J. D. Victor, and M. Rucci, (2023). Disparity modulations from both fixational vergence and version contribute to stereopsis. Vision Science Society 23st Annual Meeting.
+
 P. Jolly, __Y. H. Li__, M. A. Cox, A. M. Clark, B. Yang, R. Lin, Z. Zhao, and M. Rucci, (2023). Microsaccades in head-free high-acuity tasks. Vision Science Society 23st Annual Meeting.
 
 `2022`
@@ -48,9 +49,14 @@ M. A. Cox, J. Intoy, __Y. H. Li__, T. S. Murdison, B. Yang, Z. Zhao, and M. Rucc
 `2021`
  __Y. H. Li__, M. A. Cox, T. S. Murdison, B. Yang, J. Intoy, Z. Zhao, and M. Rucci. Post-saccadic dynamics of visual sensitivity across the visual field. Vision Science Society 21st Annual Meeting.
  
+Y. Bing, M. A. Cox, __Y. Li__, T. S. Murdison, Z. Zhao, J. Intoy, M. Rucci, (2021). A model of the post-saccadic dynamics of visual sensitivity. Vision Science Society 21st Annual Meeting.
+
+
+ 
 ## Teaching
 `2023`
 Co-instructor, BCSC 515 (Applied Introduction to Signals and Systems in Brain and Cognitive Sciences)
+
 Guest lecturer, ECE 410 (Applied Introduction to Augmented and Virtual Reality)
 
 `2022`
